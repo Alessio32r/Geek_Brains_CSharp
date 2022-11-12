@@ -1,0 +1,15 @@
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\Exs_32.csproj.AssemblyReference.cache
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\Exs_32.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\Exs_32.AssemblyInfoInputs.cache
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\Exs_32.AssemblyInfo.cs
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\Exs_32.csproj.CoreCompileInputs.cache
+E:\Geek_Brains C#\Semenar_5\Exs_32\bin\Debug\net6.0\Exs_32.exe
+E:\Geek_Brains C#\Semenar_5\Exs_32\bin\Debug\net6.0\Exs_32.deps.json
+E:\Geek_Brains C#\Semenar_5\Exs_32\bin\Debug\net6.0\Exs_32.runtimeconfig.json
+E:\Geek_Brains C#\Semenar_5\Exs_32\bin\Debug\net6.0\Exs_32.dll
+E:\Geek_Brains C#\Semenar_5\Exs_32\bin\Debug\net6.0\Exs_32.pdb
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\Exs_32.dll
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\refint\Exs_32.dll
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\Exs_32.pdb
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\Exs_32.genruntimeconfig.cache
+E:\Geek_Brains C#\Semenar_5\Exs_32\obj\Debug\net6.0\ref\Exs_32.dll

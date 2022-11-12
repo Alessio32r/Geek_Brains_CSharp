@@ -1,0 +1,15 @@
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\Exs_41.csproj.AssemblyReference.cache
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\Exs_41.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\Exs_41.AssemblyInfoInputs.cache
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\Exs_41.AssemblyInfo.cs
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\Exs_41.csproj.CoreCompileInputs.cache
+E:\Geek_Brains C#\HOME_6\Exs_41\bin\Debug\net6.0\Exs_41.exe
+E:\Geek_Brains C#\HOME_6\Exs_41\bin\Debug\net6.0\Exs_41.deps.json
+E:\Geek_Brains C#\HOME_6\Exs_41\bin\Debug\net6.0\Exs_41.runtimeconfig.json
+E:\Geek_Brains C#\HOME_6\Exs_41\bin\Debug\net6.0\Exs_41.dll
+E:\Geek_Brains C#\HOME_6\Exs_41\bin\Debug\net6.0\Exs_41.pdb
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\Exs_41.dll
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\refint\Exs_41.dll
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\Exs_41.pdb
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\Exs_41.genruntimeconfig.cache
+E:\Geek_Brains C#\HOME_6\Exs_41\obj\Debug\net6.0\ref\Exs_41.dll

@@ -1,0 +1,15 @@
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\Lesson_4_Recursion.csproj.AssemblyReference.cache
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\Lesson_4_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\Lesson_4_Recursion.AssemblyInfoInputs.cache
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\Lesson_4_Recursion.AssemblyInfo.cs
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\Lesson_4_Recursion.csproj.CoreCompileInputs.cache
+E:\Geek_Brains C#\Lesson_4_Recursion\bin\Debug\net6.0\Lesson_4_Recursion.exe
+E:\Geek_Brains C#\Lesson_4_Recursion\bin\Debug\net6.0\Lesson_4_Recursion.deps.json
+E:\Geek_Brains C#\Lesson_4_Recursion\bin\Debug\net6.0\Lesson_4_Recursion.runtimeconfig.json
+E:\Geek_Brains C#\Lesson_4_Recursion\bin\Debug\net6.0\Lesson_4_Recursion.dll
+E:\Geek_Brains C#\Lesson_4_Recursion\bin\Debug\net6.0\Lesson_4_Recursion.pdb
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\Lesson_4_Recursion.dll
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\refint\Lesson_4_Recursion.dll
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\Lesson_4_Recursion.pdb
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\Lesson_4_Recursion.genruntimeconfig.cache
+E:\Geek_Brains C#\Lesson_4_Recursion\obj\Debug\net6.0\ref\Lesson_4_Recursion.dll

@@ -1,0 +1,15 @@
+E:\Geek_Brains C#\HOME_1\Exs_6\bin\Debug\net6.0\Задача_6.exe
+E:\Geek_Brains C#\HOME_1\Exs_6\bin\Debug\net6.0\Задача_6.deps.json
+E:\Geek_Brains C#\HOME_1\Exs_6\bin\Debug\net6.0\Задача_6.runtimeconfig.json
+E:\Geek_Brains C#\HOME_1\Exs_6\bin\Debug\net6.0\Задача_6.dll
+E:\Geek_Brains C#\HOME_1\Exs_6\bin\Debug\net6.0\Задача_6.pdb
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\Задача_6.csproj.AssemblyReference.cache
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\Задача_6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\Задача_6.AssemblyInfoInputs.cache
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\Задача_6.AssemblyInfo.cs
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\Задача_6.csproj.CoreCompileInputs.cache
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\Задача_6.dll
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\refint\Задача_6.dll
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\Задача_6.pdb
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\Задача_6.genruntimeconfig.cache
+E:\Geek_Brains C#\HOME_1\Exs_6\obj\Debug\net6.0\ref\Задача_6.dll
